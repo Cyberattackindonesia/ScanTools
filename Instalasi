@@ -1,0 +1,11 @@
+pkg install python2
+pkg install git
+pip2 install colorama
+pip2 install request
+pip2 install bs4
+
+git clone https://github.com/cyberattackindonesia/ScanTools 
+cd ScanTools
+
+Run
+python2 Scanning.py
